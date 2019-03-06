@@ -1,0 +1,231 @@
+,001,YAOURTS                                      ,,,3
+,002,DESSERTS                                     ,,,3
+,003,SUISSES                                      ,,,3
+,004,FROMAGES FRAIS                               ,,,3
+,005,CREME FRAICHE/PDTS BASE CREME                ,,,3
+,006,JUS ET NECTAR FRUITS FRAIS                   ,,,3
+,008,LAIT FRAIS                                   ,,,3
+,016,BEURRE ET SPEC.LAITIERES                     ,,,3
+,017,MARGARINE & GRAISSE A F                      ,,,3
+,018,PATE A TARTINER                              ,,,3
+,019,LAIT LONGUE CONSERVATION                     ,,,1
+,020,PRODUIT LAITIER UHT/ AUTRE UHT               ,,,1
+,021,OEUFS                                        ,,,3
+,022,FROMAGES LIBRE SERVICE                       ,,,3
+,023,CUBE APERITIF                                ,,,3
+,029,OVOPRODUITS PRODUITS DE RHF)                 ,,,3
+,031,CHARCUTERIE PRE-EMBALLEE                     ,,,3
+,032,JB & SCISSON SEC LS/VERRINE                  ,,,1
+,033,TRAITEUR LS                                  ,,,3
+,034,CHARCUTERIE HALLAL/CASHER                    ,,,3
+,041,POISSONS FUMES / SALES /SECHES               ,,,3
+,042,MARINADES                                    ,,,3
+,043,PRODUITS CANAPES                             ,,,3
+,044,PRODUITS TRAITEURS DE LA MER                 ,,,3
+,050,POULET LS                                    ,,,3
+,051,DINDE LS                                     ,,,3
+,052,CANARD ET OIE LS                             ,,,3
+,053,PINTADE LS                                   ,,,3
+,054,CAILLE PIGEON GIBIER LS                      ,,,1
+,055,LAPIN LS                                     ,,,3
+,056,ABATS DE VOLAILLE CRU LS                     ,,,3
+,057,ELABORES CUITS ET CRUS LS                    ,,,3
+,058,ALIMENTS POUR ANIMAUX LS                     ,,,1
+,060,BOEUF LS                                     ,,,3
+,061,VEAU LS                                      ,,,3
+,062,AGNEAU LS                                    ,,,3
+,064,PORC LS                                      ,,,3
+,065,CHEVAL LS                                    ,,,3
+,066,STEAK HACHE LS                               ,,,3
+,067,SNACK LS                                     ,,,3
+,068,ABATS CRUS LS                                ,,,3
+,069,AUTRES VIANDES LS                            ,,,3
+,070,VIANDES POUR ANIMAUX LS                      ,,,3
+,071,DECOUPE VOLAILLE BOUCHERIE LS                ,,,3
+,080,POTAGES ET ENTREES SURGELES                  ,,,3
+,081,POISSONS,,,
+,082,VIANDES ET ABATS SURGELES                    ,,,2
+,083,GARNITURES DE P. DE TERRE SRG                ,,,2
+,084,LEGUMES SURGELES                             ,,,2
+,085,PLATS CUISINES SURGELES                      ,,,2
+,086,PATISSERIES ET PATES SURGELEES               ,,,2
+,087,FRUITS ET JUS DE FRT SURGELES                ,,,2
+,088,AIDES CULINAIRES                             ,,,1
+,090,GLACES VRAC                                  ,,,2
+,091,GLACES DETENTE                               ,,,2
+,092,SPEC.INDIV. A PARTAGER GLACES                ,,,3
+,100,CHARCUTERIE COUPE                            ,,,3
+,101,TRAITEUR COUPE                               ,,,3
+,102,STAND PIZZA QUICHE                           ,,,3
+,103,STAND ROTISSERIE                             ,,,3
+,104,STAND SANDWICH                               ,,,3
+,105,CHARCUTERIE FRAIS EMBALLE                    ,,,3
+,106,TRAITEUR FRAIS EMBALLE                       ,,,3
+,108,STAND HMR                                    ,,,3
+,110,FROMAGE A LA COUPE                           ,,,3
+,111,AUTRE CREMERIE A LA COUPE                    ,,,3
+,112,FROMAGES FRAIS EMBALLES                      ,,,3
+,136,VOLAILLE TRAD                                ,,,3
+,138,AUTRES VIANDES TRAD,,,3
+,139,PRODUITS ELABORES TRAD                       ,,,3
+,154,COQUILLAGE ET MOLLUSQUES                     ,,,3
+,157,POISSONNERIE FRAICHE PRE EMBAL               ,,,3
+,161,PAINS                                        ,,,3
+,162,VIENNOISERIES                                ,,,3
+,163,PATISSERIE FRAICHE                           ,,,3
+,165,PATISSERIE SECHE                             ,,,1
+,166,GALETTES DES ROIS HORS BRIOCHE               ,,,2
+,167,CHOCOLAT FRAIS                               ,,,3
+,168,GLACES INDIVIDUELLES                         ,,,2
+,169,MATIERES PREMIERES BOULANGERIE               ,,,1
+,170,MATIERES PREMIERS PATISSERIE                 ,,,3
+,181,FRUITS FRAIS                                 ,,,NULL
+,182,FRUITS SECS                                  ,,,3
+,183,LEGUMES FRAIS                                ,,,3
+,185,4EME GAMME                                   ,,,3
+,186,5EME GAMME                                   ,,,3
+,201,PANIFICATION SECHE                           ,,,1
+,202,PAINS SPECIAUX EMBALLES                      ,,,3
+,203,BISCUITERIE SUCREE                           ,,,1
+,204,PATISSERIE-INDUSTRIELLE                      ,,,1
+,205,PRODUITS POUR APERITIF                       ,,,1
+,206,CAFES TORREFIES                              ,,,1
+,207,CAFES CHICOREES SOLUBLES                     ,,,1
+,208,POUDRES CHOCOLATEES                          ,,,1
+,209,CEREALES                                     ,,,1
+,210,THES ET INFUSIONS                            ,,,1
+,211,CHOCOLAT EN TABLETTES                        ,,,1
+,212,CONFISERIE DE SUCRE                          ,,,1
+,213,CONFISERIE DE CHOCOLAT                       ,,,1
+,214,ENTREMETS ET DESSERTS                        ,,,1
+,215,PRODUITS POUR PATISSERIE                     ,,,1
+,216,LAITS CONCENTRES ET POUDRES                  ,,,1
+,217,SUCRES                                       ,,,1
+,218,CHOCOLATS DE FETE                            ,,,1
+,219,PRODUITS DIETETIQUES                         ,,,1
+,220,EPICERIE FINE                                ,,,1
+,221,FARINES                                      ,,,1
+,222,PUREE FECULE SEMOULE                         ,,,1
+,223,PATES ALIMENTAIRES                           ,,,1
+,224,RIZ                                          ,,,1
+,225,LEGUMES SECS                                 ,,,1
+,226,POTAGES ET BOUILLONS                         ,,,3
+,227,CONDIMENTS ET SAUCES                         ,,,1
+,228,SELS POIVRES EPICES                          ,,,1
+,229,CHIPS NATURE                                 ,,,1
+,230,HUILES ALIMENTAIRES                          ,,,1
+,231,VINAIGRES ET VINAIGRETTES                    ,,,1
+,232,CONFIT. PATES A TARTINER MIEL                ,,,1
+,233,FRUITS AU SIROP                              ,,,1
+,234,CONSERVES DE LEGUMES                         ,,,1
+,235,CONSERVES DE POISSON                         ,,,1
+,236,CONSERVES DE VIANDES                         ,,,1
+,237,PLATS CUISINES                               ,,,1
+,238,ALIMENTS POUR ENFANTS                        ,,,1
+,239,ALIMENTS POUR ANIMAUX                        ,,,1
+,261,BOISSONS SANS ALCOOL                         ,,,1
+,262,BIERES CIDRES                                ,,,1
+,263,EAUX MINERALES                               ,,,1
+,264,VINS CONSOMMATION COURANTE                   ,,,1
+,265,VINS ETRANGERS                               ,,,1
+,266,VINS FINS                                    ,,,1
+,267,CHAMPAGNES MOUSSEUX                          ,,,1
+,268,APERITIFS                                    ,,,1
+,269,ALCOOLS ET SPIRITUEUX                        ,,,1
+,270,ALCOOLS DE GRAINS                            ,,,1
+,271,FLASQUES                                     ,,,1
+,272,ALCOOLS ET DERIVES(USAGE PROF)               ,,,1
+,281,LAVAGE                                       ,,,1
+,282,PRODUITS D'ENTRETIEN                         ,,,1
+,283,DROGUERIE                                    ,,,1
+,284,HYGIENE PAPIER                               ,,,1
+,285,HYGIENE PARFUMERIE                           ,,,1
+,286,BEAUTE                                       ,,,1
+,287,CAPILLAIRES                                  ,,,1
+,288,PARAPHARMACIE                                ,,,1
+,290,SACS CLIENTELE (PAYANTS)                     ,,,1
+,291,EMBALLAGE BOUCHERIE                          ,,,1
+,292,EMBALLAGE FRUITS ET LEGUMES                  ,,,1
+,293,EMBALLAGE POISSONNERIE                       ,,,1
+,294,EMBALLAGE BOULANGERIE/PATISSER               ,,,1
+,295,EMBALLAGE PATISSERIE                         ,,,1
+,296,EMBALLAGE TRAITEUR/FROM/CHAR                 ,,,1
+,298,SACS ISOTHERMES                              ,,,1
+,299,EMBALLAGE SERVICES GENERAUX                  ,,,1
+,300,OUTILLAGE QUINCAILLERIE                      ,,,1
+,301,ELECTRICITE                                  ,,,1
+,302,DROGUERIE                                    ,,,1
+,303,OUTILLAGE ELECTRIQUE                         ,,,1
+,304,PILES                                        ,,,1
+,306,CADEAUX                                      ,,,1
+,307,MAT & ACCES.DE BAR PROF.                     ,,,1
+,308,ENTRETIEN                                    ,,,1
+,309,CAFE PETIT DEJEUNER                          ,,,1
+,310,VERRERIE                                     ,,,1
+,311,VAISSELLE                                    ,,,1
+,313,PREPARATION TABLE ET CUISSON                 ,,,1
+,314,RANGEMENT POUBELLES                          ,,,1
+,315,ARTICLES MENAGERS                            ,,,1
+,316,VAISSELLES A JETER                           ,,,1
+,317,SOINS DU LINGE                               ,,,1
+,318,CUISSON GAZ PLAQUES ELECT.                   ,,,1
+,319,CUISSON DANS LE FOUR                         ,,,1
+,321,CORRESPONDANCE                               ,,,1
+,322,ECRITURE                                     ,,,1
+,323,PAPETERIE/CAHIERS                            ,,,1
+,324,COPIES DOUBLES                               ,,,1
+,325,FEUILLETS MOBILES                            ,,,1
+,326,PAP.BUREAU                                   ,,,1
+,327,DESSIN-LOISIRS CREATIFS                      ,,,1
+,328,MATERIEL SCOLAIRE                            ,,,1
+,329,ACCES.BUREAU CLASSEMENT                      ,,,1
+,336,CARTERIE                                     ,,,1
+,340,PAPETERIE PROFESSIONNELLE CHR                ,,,1
+,344,ESPACE BUREAU                                ,,,1
+,345,EQUIPEMENT DU JARDIN                         ,,,1
+,350,OUTILLAGE DE JARDIN                          ,,,1
+,353,ARROSAGE ET PULVERISATION                    ,,,1
+,354,CLOTURES PROTECTIONS                         ,,,1
+,356,ENGRAIS ET AMENDEMENT PHYTO                  ,,,1
+,357,ANIMALERIE                                   ,,,1
+,361,DECORATION MUR ET SOL                        ,,,1
+,364,ACCESSOIRES SALLE DE BAIN                    ,,,1
+,366,AMPOULES                                     ,,,1
+,367,PLOMBERIE                                    ,,,1
+,368,MACONNERIE                                   ,,,1
+,369,PEINTURE-PAPIER PEINT                        ,,,1
+,370,AUTO INTERIEUR                               ,,,1
+,372,AUTO TECHNIQUE                               ,,,NULL
+,373,LUBRIFIANT                                   ,,,1
+,374,ENTRETIEN AUTO                               ,,,1
+,378,ACCESSOIRES CYCLES                           ,,,NULL
+,380,JOUET BEBE                                   ,,,1
+,384,CAMPING                                      ,,,1
+,397,BOUGIES ET SENTEURS                          ,,,1
+,398,TABLE EN FETE                                ,,,1
+,626,CHAUSSANT M BAS FE 37-38/39-40               ,,,1
+,646,COLLANT BAS FEMME                            ,,,1
+,714,MOUCHOIRS                                    ,,,1
+,715,MERCERIE                                     ,,,1
+,721,REPAS                                        ,,,1
+,722,HYGIENE - TOILETTE                           ,,,1
+,723,SECURITE PREVENTION                          ,,,1
+,726,ACCESSOIRES DE LIT                           ,,,1
+,727,JEUX                                         ,,,1
+,763,CHAUSSURE BEBE                               ,,,1
+,775,SPORT BEBE                                   ,,,1
+,790,ACCESSOIRE CHAUSSURE                         ,,,1
+,800,PETIT DEJEUNER                               ,,,1
+,801,PREPARATIONS ALIMENTAIRE                     ,,,1
+,805,RASOIR                                       ,,,1
+,807,MIEN ETRE DANS LA MAISON                     ,,,1
+,808,PIECES DETACHEES                             ,,,1
+,811,REFRIGERATEUR,,,1
+,815,MATERIEL PROFESSIONNEL                       ,,,NULL
+,821,PELLICULES                                   ,,,1
+,852,CADEAUX                                      ,,,1
+,880,PETIT SON                                    ,,,1
+,887,ACCESSOIRES SON                              ,,,1
+,941,PERIPHERIQUES                                ,,,1
+,955,BOIS DE CHAUFFAGE                            ,,,1
+,998,DIVERS,,,4

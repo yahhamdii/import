@@ -1,0 +1,12 @@
+{
+  "test": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost:27017/commandecom",
+    "JWT_SECRET": "comjasdf98435jpgfdpoij3"
+  },
+  "development": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb://localhost:27017/commandecom",
+    "JWT_SECRET": "comiaj234oi234oij234oij4"
+  }
+}

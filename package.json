@@ -1,0 +1,32 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "processing CSV files using Node.js and storing data in a MongoDB database.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon etl/produit.js --exec babel-node",
+    "dev": "webpack -wd"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.11",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "eslint": "^5.7.0",
+    "nodemon": "^1.18.4",
+    "webpack": "^4.23.1"
+  },
+  "author": "Yahyaoui Hamdi",
+  "license": "ISC"
+}
